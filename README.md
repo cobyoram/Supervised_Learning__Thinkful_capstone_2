@@ -1,4 +1,4 @@
-# Capstone 2
+# Thinkful Capstone 2
 ## Supervised Learning
 ### Predicting Solar Generation with Production and Weather Data
 
